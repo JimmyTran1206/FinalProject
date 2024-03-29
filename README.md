@@ -5,8 +5,10 @@
 This project has been deployed live to AWS at [EnchantedJobPostings](http://52.14.238.144:8080/EnchantedJobPostings/#/home) with all full-features. The contributors of this project are Jimmy Tran, Allan Meyer, and Jonathon McNamara.
 
 Users can browse the project in guest view, or login using following test accounts
-Applicant account: foundinguser, pass: test
-Company account: foundingcompany, pass: test
+
+- Applicant account: foundinguser, pass: test
+- Company account: foundingcompany, pass: test
+
 Otherwise, users can register new accounts as applicant or company with usernames and passwords of choice. No personal information is stored in this app.
 
 ## Project Description
